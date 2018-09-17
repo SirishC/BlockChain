@@ -1,2 +1,5 @@
-Polling Questions using BlockChain..
+#BlockChain_02
+# VoteCall
 
+This is a Voting application using BlockChain
+ (Java)
