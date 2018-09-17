@@ -1,3 +1,1 @@
 # BlockChain Applications 
-  -NoobChain
-  -VoteCall
